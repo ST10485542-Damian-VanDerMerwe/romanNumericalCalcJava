@@ -1,3 +1,3 @@
-**Roman Numerical Calculator** 
+**Roman Numerical Converter** 
 Roman Numeric Table Below:
 ![screenshot](romannumeral.png)
